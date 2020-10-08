@@ -8,5 +8,5 @@ curl -X POST -H 'Content-Type:application/json' -d '{"title":"main","code":"pyth
 please white this command, you can add theseee data.
 also, you can write this command
 ```
-'curl -X GET http://localhost:8000/snippets/1/'
+curl -X GET http://localhost:8000/snippets/1/
 ```
